@@ -1,6 +1,6 @@
-#Anomaly Detection in ECG Data
+# Anomaly Detection in ECG Data
 
-##Overview
+## Overview
 
 This project implements an unsupervised learning approach to identify anomalies in electrocardiogram (ECG) data using autoencoders. The dataset is available [here](https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset/data). The system learns the pattern of normal ECG signals and identifies anomalies through reconstruction errors that exceed an optimized threshold.
 
